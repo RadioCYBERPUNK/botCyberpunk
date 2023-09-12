@@ -4,11 +4,11 @@
     "services": [
         {
             "type": "endpoint",
-            "name": "https://8e53-2804-7f3-868f-ba54-e014-f9d8-e429-f450.ngrok.io/api/messages",
-            "id": "ce4f3840-48db-11ee-bf70-d157f98c08e6",
+            "name": "https://??.ngrok.io/api/messages",
+            "id": "??",
             "appId": "",
             "appPassword": "",
-            "endpoint": "https://8e53-2804-7f3-868f-ba54-e014-f9d8-e429-f450.ngrok.io/api/messages"
+            "endpoint": "https://???.ngrok.io/api/messages"
         }
     ],
     "padlock": "",
