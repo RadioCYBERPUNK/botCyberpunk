@@ -4,11 +4,11 @@
     "services": [
         {
             "type": "endpoint",
-            "name": "https://??.ngrok.io/api/messages",
+            "name": "https://seuenredeço.ngrok.io/api/messages",
             "id": "??",
             "appId": "",
             "appPassword": "",
-            "endpoint": "https://???.ngrok.io/api/messages"
+            "endpoint": "https://seuenredeço.ngrok.io/api/messages"
         }
     ],
     "padlock": "",
